@@ -12,7 +12,7 @@ public class Project_Samuel_Lambert {
    System.out.println("Please enter the Provider Name: ");
    String providerName = scanner.nextLine();
    
-   System.out.println("Please enter the Policyholder’s First Name: ");
+   System.out.println("Please enter the Policyholder’s First Name:");
    String policyholderFirstName = scanner.nextLine();
    
    System.out.println("Please enter the Policyholder’s Last Name: ");
