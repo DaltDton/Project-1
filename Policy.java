@@ -11,7 +11,7 @@ public class Policy {
       private double policyholdersWeight;
       
       public Policy() {
-         policyNumber = " ";
+         policyNumber = "  ";
          providerName = " ";
          policyholderFirstName = " ";
          policyholderLastName = " ";
